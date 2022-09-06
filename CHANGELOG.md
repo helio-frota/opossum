@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [7.0.0](https://www.github.com/nodeshift/opossum/compare/v6.4.0...v7.0.0) (2022-09-06)
+
+
+### ⚠ BREAKING CHANGES
+
+* drop Node.js 12 (#664)
+
+### Miscellaneous Chores
+
+* drop Node.js 12 ([#664](https://www.github.com/nodeshift/opossum/issues/664)) ([db37766](https://www.github.com/nodeshift/opossum/commit/db37766dcfadc95dbe3861cbfd407346e6807d4a))
+
 ## [6.4.0](https://www.github.com/nodeshift/opossum/compare/v6.3.0...v6.4.0) (2022-06-13)
 
 
